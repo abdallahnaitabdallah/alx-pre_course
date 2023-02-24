@@ -1,0 +1,4 @@
+git branch update_script
+git fetch
+git merge
+git pull origin master

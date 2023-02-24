@@ -1,4 +1,1 @@
-git add .
-git commit -m 'README update'
-git push origin master
-
+git pull --all
